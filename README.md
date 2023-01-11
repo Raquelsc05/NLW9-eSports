@@ -38,6 +38,7 @@ Site criado com a premissa de aprender sobre as linguagens mais atuais do mercad
  Criação de novo anúncio;
  
  
- Design da aplicação WEB
+ <h1> Design da aplicação WEB & MOBILE</h1>
+ 
  ![alt text](https://github.com/rodrigorgtic/nlw-esports-ignite/raw/main/.github/cover.png?style=flat)
 
