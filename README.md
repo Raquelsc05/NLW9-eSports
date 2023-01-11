@@ -39,5 +39,5 @@ Site criado com a premissa de aprender sobre as linguagens mais atuais do mercad
  
  
  Design da aplicação WEB
- ![alt text](
+ ![alt text](https://github.com/rodrigorgtic/nlw-esports-ignite/raw/main/.github/cover.png?style=flat)
 
