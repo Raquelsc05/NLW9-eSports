@@ -1,4 +1,4 @@
-# NLW9-eSports
+# NLW9-eSports 🎮
 NLW eSports - Trilha Ignite
   
 
